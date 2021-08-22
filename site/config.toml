@@ -1,5 +1,5 @@
-baseurl = "/"
-languageCode = "en-us"
+baseurl = "https://hugo-cms.nickhowes.co.uk/"
+languageCode = "en-gb"
 languageLang = "en"
 title = "Homepage"
 
